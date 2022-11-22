@@ -1,4 +1,4 @@
-package com.fastcampus.javaoop.login;
+package com.fastcampus.javaoop.logic;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
@@ -18,6 +18,7 @@ class JavaSortTest {
 
         assertEquals(List.of(1,2,3,4,5),actual);
 
+        System.out.println("미아러나ㅣㅇ허ㅏㅣㄴ");
     }
 
 }

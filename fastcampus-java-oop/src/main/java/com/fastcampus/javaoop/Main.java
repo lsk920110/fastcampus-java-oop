@@ -1,6 +1,6 @@
 package com.fastcampus.javaoop;
 
-import com.fastcampus.javaoop.login.BubbleSort;
+import com.fastcampus.javaoop.logic.BubbleSort;
 
 import java.util.Arrays;
 

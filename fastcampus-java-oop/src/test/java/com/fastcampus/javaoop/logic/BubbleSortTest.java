@@ -1,4 +1,4 @@
-package com.fastcampus.javaoop.login;
+package com.fastcampus.javaoop.logic;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
